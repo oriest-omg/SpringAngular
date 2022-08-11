@@ -1,0 +1,34 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"nom": "f230fh0g3",
+			"prenom": "Bamboo Watch",
+			"age": 20
+		},
+		{
+			"id": 2,
+			"nom": "f230fh0g3",
+			"prenom": "Bamboo Watch",
+			"age": 30
+		},
+		{
+			"id": 3,
+			"nom": "f230fh0g3",
+			"prenom": "Bamboo Watch",
+			"age": 40
+		},
+		{
+			"id": 4,
+			"nom": "f230fh0g3",
+			"prenom": "Bamboo Watch",
+			"age": 50
+		},
+		{
+			"id": 5,
+			"nom": "f230fh0g3",
+			"prenom": "Bamboo Watch",
+			"age": 55
+		}
+	]
+}
